@@ -1,0 +1,87 @@
+{
+  "version": "2",
+  "flowTitle": "📈 Resumen Semanal de Interesados · Impulsa Canarias",
+  "trigger": {
+    "valid": false,
+    "displayName": "Cada lunes a las 9:00 (resumen semanal)",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "1.0.0",
+      "triggerName": "schedule.weekly",
+      "input": {
+        "timezone": "Atlantic/Canary",
+        "dayOfWeek": {
+          "437b1a52-4963-454c-809d-ea0a07d4dacf": {
+            "id": "437b1a52-4963-454c-809d-ea0a07d4dacf",
+            "rank": "V",
+            "content": {
+              "type": "STRING",
+              "content": "Monday"
+            }
+          }
+        },
+        "timeOfDay": "9:00 AM"
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "d3e4f567-890a-bcde-f123-4567890abcde",
+      "valid": true,
+      "displayName": "Exportar ficha de cursos para revisar actividad",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "project.export",
+        "input": {
+          "format": "markdown",
+          "projectId": "XrvBnVZYL5VJ3y9y"
+        }
+      }
+    },
+    {
+      "name": "e4f56789-0abc-def1-2345-67890abcdef1",
+      "valid": true,
+      "displayName": "Generar resumen IA de la semana",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "1.0.0",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "{{ d3e4f567-890a-bcde-f123-4567890abcde[\"content\"] }}",
+          "prompt": "Eres el asistente de marketing de Impulsa Canarias. Analiza el estado actual del catálogo de cursos y genera un resumen ejecutivo breve (máximo 150 palabras) con: 1) cursos activos esta semana, 2) acciones de seguimiento prioritarias, 3) un mensaje de motivación para el equipo. Usa lenguaje práctico y directo."
+        }
+      }
+    },
+    {
+      "name": "f5a67890-1bcd-ef12-3456-7890abcdef12",
+      "valid": false,
+      "displayName": "Crear tarea de resumen semanal en proyecto de tareas",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "📅 RESUMEN SEMANA: {{ trigger[\"triggerTime\"] }} | {{ e4f56789-0abc-def1-2345-67890abcdef1[\"result\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "y4BtDLEvrA6p5gE8"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "y4BtDLEvrA6p5gE8": {
+      "id": "y4BtDLEvrA6p5gE8",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

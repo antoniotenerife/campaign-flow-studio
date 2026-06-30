@@ -1,0 +1,1499 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "072431b1-6bc8-4be6-a37b-0ac3cde51098",
+        "text": {
+          "ops": [
+            {
+              "insert": "📅 Calendario de Campaña · Impulsa Canarias 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "65b67261-5ad0-4d85-b077-56384be30938",
+            "text": {
+              "ops": [
+                {
+                  "insert": "JUL 2026 · Verano para Aprender",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "739b4b63-fb7d-458b-977e-9c72edb852c8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos prioritarios: IA + Ofimática (6–17 Jul) · Excel Básico (20–31 Jul)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Julio 2026",
+                  "@objetivo": "Captar primeras matrículas · Posicionamiento de marca",
+                  "@canal": "Instagram + WhatsApp + Cartelería local",
+                  "@mensaje": "Aprovecha el verano para ponerte al día · Cursos express de 2 semanas",
+                  "@materiales": "Cartel general campaña · Post por curso · Mensaje WhatsApp · Formulario inscripción"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dfdaadc7-2ac1-4042-aa02-93d693d53ae2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar cartel de apertura de campaña",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "635c8574-ac62-405c-8193-454fb99db945",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Enviar WhatsApp a lista de contactos (arranque temporada)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e8972f1a-cb27-41d7-becc-2c0794a3881c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Actualizar Google Business Profile con horarios de verano",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4cc0eed4-6767-4d23-a7f3-2c3bbafc830d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AGO 2026 · Captación de Negocios Locales",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "34eddb85-1189-44a0-bf5c-7f91cd89d652",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Curso prioritario: Canva, Redes y Contenidos para Negocios (3–14 Ago)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Agosto 2026",
+                  "@objetivo": "Captar autónomos y comercios locales",
+                  "@canal": "Instagram + Facebook + Contacto directo comercios",
+                  "@mensaje": "¿Tienes negocio y no sabes cómo promocionarte? Esto es para ti",
+                  "@materiales": "Post con antes/después · Reel 30s · Mensaje WhatsApp para negocios"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "24bec7e0-bb08-4a72-a0a3-daf7c195436f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar post enfocado a autónomos y comercios",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "652bbda3-546b-4567-ae1c-c3bea5e422c4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visitar 5 comercios locales con díptico informativo",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "66b6cff8-de06-41e2-b5a8-8c55513a65df",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SEP 2026 · Vuelta al Curso",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe6ed342-3a5b-4f17-be9d-4c18931cfcc9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos: Google Workspace (7–18 Sep) · Inicio Admón Digital Intermedio (21 Sep)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Septiembre 2026",
+                  "@objetivo": "Captación masiva · Transición a cursos intermedios",
+                  "@canal": "Todos los canales · Email · WhatsApp · RRSS",
+                  "@mensaje": "Nueva temporada, nuevas competencias · Empieza septiembre formado",
+                  "@materiales": "Cartel vuelta al curso · Post de apertura · Email de lista · Story con cuenta atrás"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f6152194-f52c-4304-9745-a648470b5f7c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lanzar campaña 'Vuelta al Curso' en todos los canales",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b47fb1af-54e0-4f86-ac2a-5ae8783ec935",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Enviar email a toda la base de datos",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "cc7b5eb9-b33e-4309-8ae6-8c59ca868ac5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "OCT–NOV 2026 · Especialización",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "0a406e0c-4d4c-4a65-a8e8-ad0925c6c96e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos: IA Empresa Premium (Oct) · Plan de Negocio (Oct–Nov) · Marketing Digital (Nov–Dic)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Oct–Nov 2026",
+                  "@objetivo": "Captación premium · Empresas y emprendedores",
+                  "@canal": "LinkedIn + Email directo empresas + WhatsApp",
+                  "@mensaje": "¿Listo para dar el salto profesional? Especialízate este otoño",
+                  "@materiales": "Presentación para empresas · Ficha Premium · Email de captación B2B"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33e099df-538a-466a-8a9c-82d8290a92ee",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Contactar con empresas para presentar oferta formativa Premium",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f2fe01d7-7997-4ab0-915b-a816b8b18389",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar testimonios de alumnos anteriores (social proof)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "9146baaa-811d-46ba-b219-1645726a8512",
+            "text": {
+              "ops": [
+                {
+                  "insert": "DIC 2026 · Cierre y Promoción de Enero",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c047ece0-6152-4fa0-91dc-7dff60c1b684",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Fin de Marketing Digital · Promoción anticipada cursos de enero",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Diciembre 2026",
+                  "@objetivo": "Cerrar temporada · Precaptación enero",
+                  "@canal": "WhatsApp + Email + RRSS",
+                  "@mensaje": "Termina el año formado · Empieza el 2027 con ventaja",
+                  "@materiales": "Post de cierre · Mensaje de precaptación · Story con oferta de enero"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a4492eea-2b93-4f33-ad58-047c6ac6e248",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Enviar mensaje de felicitación con preview de enero",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d06ad1cc-ae27-401d-98fc-55ca234314de",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ENE–FEB 2027 · Año Nuevo Profesional",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "93d71ea4-e9fc-4482-b451-009eba214871",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos: Dirección Pymes Premium (Ene) · Finanzas Intermedio (Ene) · Ventas Intermedio (Feb)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Ene–Feb 2027",
+                  "@objetivo": "Captar con propósitos de año nuevo · Reciclaje profesional",
+                  "@canal": "Instagram + WhatsApp + Email",
+                  "@mensaje": "Nuevo año, nueva versión de ti · Fórmate en enero y empieza a crecer",
+                  "@materiales": "Post propósitos profesionales · Reel motivacional · Email de arranque"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "19fa41ec-2c5a-47c9-b4a3-432fed85eac6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lanzar campaña 'Año Nuevo Profesional' en RRSS",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4188c318-590f-4e91-af04-08c3c66136f5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "MAR–ABR 2027 · Primavera Digital",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1016ced9-3e4a-4c9a-858b-cbb75c69032f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos: Power BI Premium (Mar) · Transformación Digital (Feb–Abr) · Automatización IA Express (Abr)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "Mar–Abr 2027",
+                  "@objetivo": "Captación digital · Empresas y perfiles tecnológicos",
+                  "@canal": "LinkedIn + Facebook + Email B2B",
+                  "@mensaje": "Automatiza, digitaliza y crece · La primavera digital empieza aquí",
+                  "@materiales": "Post con beneficio concreto · Demo de herramienta · Presentación empresa"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7cf25d6-600b-4be5-8fda-58a98bd4ea3d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publicar caso de éxito / testimonio de empresa formada",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6527c040-dfbd-4644-9e99-1fc1cfbd5946",
+            "text": {
+              "ops": [
+                {
+                  "insert": "MAY–JUN 2027 · Prepárate para el Futuro",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "3a1f4eb4-aa4a-4c7d-b87c-4f03b6d0996e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos: Liderazgo Premium (May–Jun) · Power BI cierre (May)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@mes": "May–Jun 2027",
+                  "@objetivo": "Cierre de temporada · Liderazgo y dirección",
+                  "@canal": "LinkedIn + WhatsApp directivos + Email",
+                  "@mensaje": "Consolida tu posición · El curso que distingue a quien sube de quien se queda",
+                  "@materiales": "Post directivo · Reel storytelling · Ficha PDF liderazgo"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c237defb-7713-40a9-a1aa-7557959ff1c3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cerrar temporada con informe de resultados de campaña",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z"
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV"
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk"
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs"
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z"
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV"
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk"
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs"
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z"
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV"
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk"
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs"
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z"
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV"
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk"
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs"
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@mes": {
+            "id": "/attributes/@mes",
+            "fieldPath": "/attributes/@mes",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@objetivo": {
+            "id": "/attributes/@objetivo",
+            "fieldPath": "/attributes/@objetivo",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@canal": {
+            "id": "/attributes/@canal",
+            "fieldPath": "/attributes/@canal",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@mensaje": {
+            "id": "/attributes/@mensaje",
+            "fieldPath": "/attributes/@mensaje",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@materiales": {
+            "id": "/attributes/@materiales",
+            "fieldPath": "/attributes/@materiales",
+            "rank": "zw",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@mes": {
+        "type": "string",
+        "displayName": "Mes"
+      },
+      "@objetivo": {
+        "type": "string",
+        "displayName": "Objetivo Comercial"
+      },
+      "@canal": {
+        "type": "string",
+        "displayName": "Canal Principal"
+      },
+      "@mensaje": {
+        "type": "string",
+        "displayName": "Mensaje Clave"
+      },
+      "@materiales": {
+        "type": "string",
+        "displayName": "Materiales Necesarios"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "board",
+    "avatar": {
+      "type": "emoji",
+      "value": "🖇️"
+    }
+  }
+}

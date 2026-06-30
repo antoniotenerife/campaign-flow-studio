@@ -1,0 +1,1422 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "f47152e6-e6c0-40c9-bb4c-fb381e3b7d7a",
+        "text": {
+          "ops": [
+            {
+              "insert": "📚 Fichas de Cursos · Impulsa Canarias 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "0496e4bc-66c7-4c8f-a593-9ba128457224",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Vacaciones Productivas: IA y Ofimática para Empezar Fuerte",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "express"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "gancho"
+              },
+              "@horas": "12 h",
+              "@fechas": "06–17 Jul 2026",
+              "@publico": "Desempleados, estudiantes, profesionales que quieren actualizarse",
+              "@resultado": "Kit inicial de productividad con IA",
+              "@cta": "Empieza el lunes · Plazas limitadas"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "efb26569-5ab3-401f-b6d4-4fcaac9c8aac",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Excel Básico para Administración y Control",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "express"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "gancho"
+              },
+              "@horas": "16 h",
+              "@fechas": "20–31 Jul 2026",
+              "@publico": "Personas que necesitan base administrativa inmediata",
+              "@resultado": "Plantilla de control administrativo lista para usar",
+              "@cta": "Reserva tu plaza · Solo 2 semanas"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cf7c8eb9-400a-4212-aa0e-389f9e533b7d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Canva, Redes Sociales y Contenidos para Negocios Locales",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "express"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "gancho"
+              },
+              "@horas": "12 h",
+              "@fechas": "03–14 Ago 2026",
+              "@publico": "Autónomos, comercios y pequeños negocios",
+              "@resultado": "Pack de 10 publicaciones listas para adaptar",
+              "@cta": "Aprende a diseñar sin ser diseñador"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "afa56389-6950-4acb-baea-c08dee62ed19",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Vuelta al Curso: Google Workspace y Organización Digital",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "express"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "gancho"
+              },
+              "@horas": "12 h",
+              "@fechas": "07–18 Sep 2026",
+              "@publico": "Alumnado, equipos de oficina y pequeños negocios",
+              "@resultado": "Sistema de organización semanal en la nube",
+              "@cta": "Organízate desde el primer día"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fedd195b-dc43-48d5-9383-b84bfe1a7234",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Primavera Digital: Automatización Sencilla con IA",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "express"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "gancho"
+              },
+              "@horas": "16 h",
+              "@fechas": "06–17 Abr 2027",
+              "@publico": "Profesionales que quieren ahorrar tiempo",
+              "@resultado": "Mapa de tareas automatizables en tu trabajo",
+              "@cta": "Automatiza tu día a día"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "21411040-a6ea-4e0b-80c3-63ab926c48f3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Administración Digital y Excel Profesional",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "intermedio"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "especializacion"
+              },
+              "@horas": "40 h",
+              "@fechas": "21 Sep–16 Oct 2026",
+              "@publico": "Auxiliares administrativos, estudiantes, personal de oficina",
+              "@resultado": "Libro Excel de gestión de empresa",
+              "@cta": "Pasa de básico a profesional · 4 semanas"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "07a608df-b7ef-4ab5-b109-3ff8f5fee801",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Creación de Empresa y Plan de Negocio con IA",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "intermedio"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "especializacion"
+              },
+              "@horas": "50 h",
+              "@fechas": "19 Oct–20 Nov 2026",
+              "@publico": "Emprendedores, autónomos y alumnado de empresa",
+              "@resultado": "Plan de negocio básico presentado",
+              "@cta": "Monta tu negocio con base sólida"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c92f1ddc-06d5-464f-b62f-91cc8c684cca",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Marketing Digital, SEO, SEM, GEO y Contenidos",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "intermedio"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "especializacion"
+              },
+              "@horas": "40 h",
+              "@fechas": "23 Nov–18 Dic 2026",
+              "@publico": "Negocios locales, comercios, academias y emprendedores",
+              "@resultado": "Mini plan de medios y contenidos",
+              "@cta": "Hazte visible en Google y redes"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a6e96e2a-8b4f-449d-ba79-e269b6df821b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Finanzas, Presupuestos y Control de Gestión para Pymes",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "intermedio"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "especializacion"
+              },
+              "@horas": "40 h",
+              "@fechas": "18 Ene–12 Feb 2027",
+              "@publico": "Autónomos, responsables administrativos, pequeños empresarios",
+              "@resultado": "Cuadro de control económico operativo",
+              "@cta": "Controla tus números desde hoy"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a56fbb6f-8604-4ef8-aad2-39cb6e5af395",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gestión de Clientes, Ventas y Experiencia de Compra",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "intermedio"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "especializacion"
+              },
+              "@horas": "36 h",
+              "@fechas": "15 Feb–12 Mar 2027",
+              "@publico": "Equipos comerciales, recepción, atención al público",
+              "@resultado": "Protocolo de ventas y seguimiento de clientes",
+              "@cta": "Vende más y fideliza mejor"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "16b36b7d-13ea-4f51-91b6-5b34ad04663b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "IA Aplicada a la Empresa: Productividad, Informes y Automatización",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "premium2"
+              },
+              "@horas": "80 h",
+              "@fechas": "05 Oct–18 Dic 2026",
+              "@publico": "Profesionales, docentes, administrativos y empresas",
+              "@resultado": "Proyecto de implantación de IA por área",
+              "@cta": "Transforma tu empresa con IA · Formación bonificable"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f81173c5-15cb-48fb-be29-8d0bd56074cb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Dirección y Gestión Empresarial para Pymes",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "premium2"
+              },
+              "@horas": "90 h",
+              "@fechas": "11 Ene–26 Mar 2027",
+              "@publico": "Autónomos, mandos intermedios y propietarios de negocio",
+              "@resultado": "Plan de gestión anual con indicadores",
+              "@cta": "Dirige con datos · No con intuición"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "77a01c46-18c2-4e85-8460-1f326151533f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Transformación Digital y Automatización de Procesos",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "premium2"
+              },
+              "@horas": "100 h",
+              "@fechas": "01 Feb–30 Abr 2027",
+              "@publico": "Empresas, equipos administrativos y responsables de área",
+              "@resultado": "Hoja de ruta digital de la empresa",
+              "@cta": "Digitaliza tu empresa · Paso a paso"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f1011739-b567-4ab6-a5b5-6dc849a14334",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Business Intelligence con Power BI y Excel Avanzado",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "premium2"
+              },
+              "@horas": "80 h",
+              "@fechas": "01 Mar–21 May 2027",
+              "@publico": "Administración, control de gestión y perfiles analíticos",
+              "@resultado": "Dashboard ejecutivo funcional",
+              "@cta": "Toma decisiones con datos reales"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "84cc753c-f124-420a-a41f-a2809728838b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Liderazgo, Habilidades Directivas y Proyecto Final",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nivel": {
+                "type": "Select",
+                "optionId": "premium"
+              },
+              "@prioridad": {
+                "type": "Select",
+                "optionId": "premium2"
+              },
+              "@horas": "70 h",
+              "@fechas": "03 May–25 Jun 2027",
+              "@publico": "Profesionales que desean ascender o consolidar responsabilidad",
+              "@resultado": "Presentación final de proyecto profesional",
+              "@cta": "Lidera tu próximo reto · Plazas muy limitadas"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z"
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV"
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk"
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs"
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw"
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy"
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z"
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV"
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk"
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs"
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw"
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy"
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z"
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV"
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk"
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs"
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw"
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy"
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z"
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV"
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk"
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs"
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw"
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy"
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@nivel": {
+            "id": "/attributes/@nivel",
+            "fieldPath": "/attributes/@nivel",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prioridad": {
+            "id": "/attributes/@prioridad",
+            "fieldPath": "/attributes/@prioridad",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@horas": {
+            "id": "/attributes/@horas",
+            "fieldPath": "/attributes/@horas",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@fechas": {
+            "id": "/attributes/@fechas",
+            "fieldPath": "/attributes/@fechas",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@publico": {
+            "id": "/attributes/@publico",
+            "fieldPath": "/attributes/@publico",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@resultado": {
+            "id": "/attributes/@resultado",
+            "fieldPath": "/attributes/@resultado",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@cta": {
+            "id": "/attributes/@cta",
+            "fieldPath": "/attributes/@cta",
+            "rank": "zz",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@nivel": {
+        "type": "Select",
+        "displayName": "Nivel",
+        "options": {
+          "express": {
+            "id": "express",
+            "name": "⚡ Express",
+            "color": "#F59E0B",
+            "rank": "0"
+          },
+          "intermedio": {
+            "id": "intermedio",
+            "name": "📘 Intermedio",
+            "color": "#3B82F6",
+            "rank": "1"
+          },
+          "premium": {
+            "id": "premium",
+            "name": "⭐ Premium",
+            "color": "#8B5CF6",
+            "rank": "2"
+          }
+        }
+      },
+      "@prioridad": {
+        "type": "Select",
+        "displayName": "Prioridad Comercial",
+        "options": {
+          "gancho": {
+            "id": "gancho",
+            "name": "🎣 Gancho",
+            "color": "#10B981",
+            "rank": "0"
+          },
+          "especializacion": {
+            "id": "especializacion",
+            "name": "📈 Especialización",
+            "color": "#3B82F6",
+            "rank": "1"
+          },
+          "premium2": {
+            "id": "premium2",
+            "name": "💎 Premium",
+            "color": "#8B5CF6",
+            "rank": "2"
+          }
+        }
+      },
+      "@horas": {
+        "type": "string",
+        "displayName": "Duración"
+      },
+      "@fechas": {
+        "type": "string",
+        "displayName": "Fechas"
+      },
+      "@publico": {
+        "type": "string",
+        "displayName": "Público Objetivo"
+      },
+      "@resultado": {
+        "type": "string",
+        "displayName": "Resultado Entregable"
+      },
+      "@cta": {
+        "type": "string",
+        "displayName": "CTA Recomendado"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📐"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "version": "2",
+  "flowTitle": "📬 Seguimiento Automático de Interesados · Impulsa Canarias",
+  "trigger": {
+    "type": "FORM",
+    "displayName": "Formulario de Interés · Alumno Potencial",
+    "settings": {
+      "description": "",
+      "inputs": [
+        {
+          "id": "nombre",
+          "title": "Nombre completo",
+          "description": "¿Cómo te llamas?",
+          "type": "short_text"
+        },
+        {
+          "id": "email",
+          "title": "Email de contacto",
+          "description": "Te contactaremos por aquí",
+          "type": "short_text",
+          "format": {
+            "type": "email"
+          }
+        },
+        {
+          "id": "telefono",
+          "title": "Teléfono (opcional)",
+          "description": "Para contactarte más rápido",
+          "type": "short_text",
+          "format": {
+            "type": "tel"
+          }
+        },
+        {
+          "id": "curso_interes",
+          "title": "Curso de interés",
+          "description": "¿Qué curso te interesa?",
+          "type": "short_text"
+        },
+        {
+          "id": "mensaje",
+          "title": "¿Alguna pregunta?",
+          "description": "Cuéntanos lo que necesites saber",
+          "type": "long_text"
+        }
+      ],
+      "isEndPageEnabled": false
+    }
+  },
+  "actions": [
+    {
+      "name": "b1a7c2d3-4e5f-6789-abcd-ef0123456789",
+      "valid": false,
+      "displayName": "Crear tarea del interesado en proyecto de seguimiento",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "📌 NUEVO INTERESADO: {{ trigger[\"nombre\"] }} | {{ trigger[\"curso_interes\"] }} | {{ trigger[\"email\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "XrvBnVZYL5VJ3y9y"
+          }
+        }
+      }
+    },
+    {
+      "name": "c2b3d4e5-f678-90ab-cdef-1234567890ab",
+      "valid": true,
+      "displayName": "Enviar email de bienvenida al interesado",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "notify.email",
+        "input": {
+          "body": "Hola {{ trigger[\"nombre\"] }},\n\nGracias por interesarte en el curso: {{ trigger[\"curso_interes\"] }}.\n\nEn breve nos ponemos en contacto contigo para darte toda la información sobre fechas, horarios y precios.\n\nRecuerda: Aprende hoy. Aplica mañana. Impulsa tu futuro.\n\nEl equipo de Impulsa Canarias\nFormación · Innovación · Futuro",
+          "subject": "¡Hola {{ trigger[\"nombre\"] }}! Hemos recibido tu solicitud · Impulsa Canarias",
+          "recipientEmail": "{{ trigger[\"email\"] }}"
+        }
+      }
+    }
+  ],
+  "variables": {
+    "XrvBnVZYL5VJ3y9y": {
+      "id": "XrvBnVZYL5VJ3y9y",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

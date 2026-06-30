@@ -1,0 +1,740 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "e653c7ef-0241-4472-b6c8-ec99ec4fd8d1",
+        "text": {
+          "ops": [
+            {
+              "insert": "🗺️ Campaña Formativa Impulsa Canarias 2026–2027"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "4ab4441a-cf5d-4825-8a02-85f015d671e4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "A. Oferta de Cursos",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "0d35ab2c-87fb-4108-916a-d14b3fe40b5e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos Express (6–20h) · 5 cursos gancho",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "50f36816-feca-4ac1-9418-e4b14f647022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos Intermedios (30–60h) · 5 cursos de especialización",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "69da5548-ebc7-404f-b83e-e85959fae0c9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos Premium (60–120h) · 5 cursos de alto valor",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2e8d8441-a5da-4ab8-83fa-19d482db04d8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos gancho: IA + Ofimática · Excel Básico · Canva y Redes",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "447cfef0-6414-4f63-8caa-3015527f27e9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos para empresas: IA Empresa · Transformación Digital · Power BI",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5f03485d-5cdc-427c-aae0-f346f8c88ae7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cursos para desempleados: Excel · Google Workspace · Administración Digital",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "2cf48214-44de-4272-b154-7f1a49b44fec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "B. Público Objetivo",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "075327c9-2ffd-4930-ba55-f7da91c98e6e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Jóvenes titulados sin experiencia",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1d7e8b61-51e7-49b8-9a75-b89bb5be1ed6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Personas desempleadas que buscan empleo",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "908aa6d6-1530-4b99-9395-6ab942e4a678",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Trabajadores que quieren actualizarse",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "41dad771-3916-4e2e-8109-8cceb74e9890",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Autónomos y comercios locales",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "84d9b8e1-043d-46a2-b737-1ae0fa1a8227",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pequeñas empresas y pymes",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "69186810-3627-4b35-987d-32c9d4c4ba7c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Emprendedores y personas que quieren montar negocio",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5f6498f9-20b8-4829-b478-b19f2d5717c6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Administrativos y personal de oficina",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "54591258-0f07-4eee-8bd3-38d9c3f98843",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Profesionales que buscan ascender o consolidar",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4a5cd790-15f7-4524-89fe-08073b8acfa4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "C. Mensaje Comercial",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8d72af60-98bd-4af3-b792-d2cd0ab770f5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Beneficio principal: formación práctica, resultado desde el día 1",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c7925686-607d-492b-8804-ab16c9fe3200",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Frases gancho: 'Aprende hoy. Aplica mañana.' · 'Fórmate sin complicarte'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1245b7fa-4d69-44ef-9081-395278f192e0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CTA: Reserva tu plaza · Infórmate gratis · Empieza el lunes",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4702e120-7d8b-45e8-af76-05a7001a826c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Resultado que obtiene el alumno: plantilla, certificado, proyecto real",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4e2dbd0c-3a71-4660-8dc5-2190351fafc3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "D. Canales de Comunicación",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "46e19611-7203-4b8a-83a1-798124626257",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Instagram + Facebook (publicaciones, reels, historias)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a3e6ef20-2da9-4d5d-8279-32479a6a639e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WhatsApp (mensajes directos a lista de contactos)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1fd48cb9-b555-4d61-aa4e-4564f5b57f2f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Google Business Profile (actualización mensual)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a658ee49-912c-463d-a2e0-92bc3aa58e6a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Email (captación, recordatorio, confirmación)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b151f6dc-d597-478c-84a5-cf9d0972f324",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cartelería local y contacto directo con empresas",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d686798d-bc6e-4a99-bd26-9e27d43416eb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Web / landing page con formulario de inscripción",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "mindmap",
+    "avatar": {
+      "type": "emoji",
+      "value": "📱"
+    }
+  }
+}
